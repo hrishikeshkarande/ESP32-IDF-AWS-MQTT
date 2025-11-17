@@ -1,0 +1,13 @@
+# Ignore the entire build output directory
+build/
+
+# Ignore files created by menuconfig
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults
+
+# Ignore VS Code specific files
+.vscode/
+
+# Ignore environment specific files
+.DS_Store
