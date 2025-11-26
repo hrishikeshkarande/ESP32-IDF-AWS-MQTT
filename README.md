@@ -2,11 +2,13 @@
 
 This project implements a complete, highly concurrent IoT node using the **ESP32-S3** microcontroller and the robust **ESP-IDF (v5.5)** framework. It demonstrates professional-grade embedded development practices by integrating a real-time motion sensor (**MPU-6500**) with a local HTTP server dedicated to Wi-Fi provisioning and live data monitoring. The architecture is built on **FreeRTOS** for reliable multitasking.
 
-<div align="center">
+<!-- <div align="center">
   <video src="assets/demo.mp4" width="700" autoplay loop muted playsinline>
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
+
+![Live Dashboard Demo GIF](assets/demo.gif)
 
 ![Project Hardware Setup](Assets/wiring.jpg)
 
