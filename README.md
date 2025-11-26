@@ -8,7 +8,7 @@ This project implements a complete, highly concurrent IoT node using the **ESP32
   </video>
 </div> -->
 
-![Live Dashboard Demo GIF](assets/demo.gif)
+![Live Dashboard Demo GIF](Assets/demo.gif)
 
 ![Project Hardware Setup](Assets/wiring.jpg)
 
